@@ -8,7 +8,7 @@
 
 **Tachyon** is a Modular ZK Backend, powered by GPU.
 
-## Design Goals
+## Design Goals Detail
 
 1. General Purpose: A versatile ZK library empowers developers to implement any proving scheme with minimal effort, often enhancing developer productivity. To create a general-purpose backend, aligning the code structure as closely as possible with the algebraic structure is paramount.
 2. Easy to Use: Achieving widespread adoption is essential for the success of any product. Consequently, one of the key focal points of the Tachyon project is to include offering packages for various programming languages and runtimes.
